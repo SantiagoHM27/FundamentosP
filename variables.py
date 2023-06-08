@@ -11,5 +11,5 @@ Hola soy Santiago, tengo 20 años y soltero = True
 
 """
 #Utilizan format String
-print("Hola soy {}, tengo {} años y soltero = {}".
-format(name, age, is_single) )
+print("Hola soy {}, tengo {} años y soltero = {}".format(name, age, is_single) )
+print("Hola soy {name}, tengo {age} años y soltero = {is_single}".)
